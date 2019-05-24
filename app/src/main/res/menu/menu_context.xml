@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/context_delete"
+        android:title="Delete"
+        android:orderInCategory="10"/>
+
+    <item
+        android:id="@+id/context_update"
+        android:title="Update"
+        android:orderInCategory="20"/>
+
+    <item
+        android:id="@+id/context_completed"
+        android:title="Completed"
+        android:orderInCategory="10"/>
+
+</menu>
